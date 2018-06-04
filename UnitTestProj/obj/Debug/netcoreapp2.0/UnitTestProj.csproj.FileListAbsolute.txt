@@ -1,0 +1,11 @@
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\bin\Debug\netcoreapp2.0\UnitTestProj.deps.json
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\bin\Debug\netcoreapp2.0\UnitTestProj.runtimeconfig.json
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\bin\Debug\netcoreapp2.0\UnitTestProj.runtimeconfig.dev.json
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\bin\Debug\netcoreapp2.0\UnitTestProj.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\obj\Debug\netcoreapp2.0\UnitTestProj.csprojAssemblyReference.cache
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\obj\Debug\netcoreapp2.0\UnitTestProj.csproj.CoreCompileInputs.cache
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\obj\Debug\netcoreapp2.0\UnitTestProj.AssemblyInfoInputs.cache
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\obj\Debug\netcoreapp2.0\UnitTestProj.AssemblyInfo.cs
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\bin\Debug\netcoreapp2.0\UnitTestProj.pdb
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\obj\Debug\netcoreapp2.0\UnitTestProj.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestProj\obj\Debug\netcoreapp2.0\UnitTestProj.pdb

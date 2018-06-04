@@ -1,0 +1,17 @@
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestDemo.deps.json
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestDemo.runtimeconfig.json
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestDemo.runtimeconfig.dev.json
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestDemo.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestDemo.pdb
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.csprojAssemblyReference.cache
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.AssemblyInfo.cs
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.pdb
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestProj.dll
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\bin\Debug\netcoreapp2.0\UnitTestProj.pdb
+C:\Users\Midhun\source\repos\UnitTestProj\UnitTestDemo\obj\Debug\netcoreapp2.0\UnitTestDemo.csproj.CopyComplete
